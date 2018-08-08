@@ -1,1 +1,0 @@
-Hello world!Hello ${user.username}!Hello ${user.username}!HelloEMRE!Hello EMRE!Hello EMRE!Hello EMRE!
